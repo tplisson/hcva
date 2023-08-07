@@ -13,7 +13,7 @@ HashiCorp Security Automation Certification
   <img src="images/hcva-badge.webp" {:height="25%" width="25%"}>
 </p>
 <br/>
-
+  
 ---  
 
 ## Exam details
