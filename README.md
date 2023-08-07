@@ -33,16 +33,16 @@ Expiration |	2 years
 
 | Section | Exam Objective     |  Documentation   | Tutorial  |
 | ------- | ------------------ |  --------------- | --------- | 
-1	| Compare authentication methods		
+**1**	| **Compare authentication methods**  
 1a	| Describe authentication methods	Authentication	Authentication
 1b	| Choose an authentication method based on use case	Authentication	AppRole Pull Authentication - Authentication
 1c	| Differentiate human vs. system auth methods	Authentication	AppRole Pull Authentication - Authentication
-2	| Create Vault policies		
+**2**	| **Create Vault policies**  
 2a	| Illustrate the value of Vault policy	Policies	Vault Policies
 2b	| Describe Vault policy syntax: path	Policy Syntax	Vault Policies– Write ACL policies in HCL format
 2c	| Describe Vault policy syntax: capabilities	Capabilities	Vault Policies– Write ACL policies in HCL format
 2d	| Craft a Vault policy based on requirements		Vault Policies– Policy requirements
-3	| Assess Vault tokens		
+**3**	| **Assess Vault tokens**		
 3a	| Describe Vault token	Tokens	Tokens
 3b	| Differentiate between service and batch tokens. Choose one based on use case	Tokens	Batch Tokens
 3c	| Describe root token uses and lifecycle	Root Tokens	Generate Root Tokens Using Unseal Keys
