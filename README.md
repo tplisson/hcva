@@ -63,15 +63,9 @@ Choose one based on use case	Tokens	Batch Tokens
 6	Utilize Vault CLI		
 6a	Authenticate to Vault	Authentication	Authentication
 6b	Configure authentication methods		Authentication
-6c	Configure Vault policies		Policies 
-
-Vault Policies
-6d	Access Vault secrets		Secrets Engines 
-
-Secrets Management Learning Track
-6e	Enable Secret engines		Secrets Engines 
-
-Secrets Management Learning Track
+6c	Configure Vault policies		Policies Vault Policies
+6d	Access Vault secrets		Secrets Engines Secrets Management Learning Track
+6e	Enable Secret engines		Secrets Engines Secrets Management Learning Track
 6f	Configure environment variables	Environment Variables	Configure Vault
 7	Utilize Vault UI		
 7a	Authenticate to Vault		Authentication
@@ -93,14 +87,11 @@ Secrets Management Learning Track
 9h	Be aware of replication	 Vault Enterprise Replication	[Enterprise] Setting up Performance Replication
 9i	Describe seal/unseal		Deploy Vault – Seal/Unseal
 9j	Explain response wrapping	Response Wrapping	Cubbyhole Response Wrapping
-9k	Explain the value of short-lived, dynamically generated secrets		Secrets as a Service: Dynamic Secrets 
-
-Dynamic Secrets
+9k	Explain the value of short-lived, dynamically generated secrets		Secrets as a Service: Dynamic Secrets Dynamic Secrets
 10	Explain encryption as a service		
 10a	Configure transit secret engine		Encryption as a Service: Transit Secrets Engine
 10b	Encrypt and decrypt secrets		Encryption as a Service: Transit Secrets Engine
 10c	Rotate the encryption key		Encryption as a Service: Transit Secrets Engine
-
 
 
 ---  
