@@ -1,5 +1,5 @@
 # HCVA HashiCorp Certified: Vault Associate (002) — Study Notes
-HashiCorp Security Automation Certification
+## HashiCorp Security Automation Certification
 
 [Exam objectives](https://www.hashicorp.com/certification/vault-associate|)
 
